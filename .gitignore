@@ -218,3 +218,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# uv files
+.python-version
+pyproject.toml
+__init__.py
